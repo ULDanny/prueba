@@ -1,0 +1,13 @@
+#tabla td{
+    border: 2px solid black;
+    padding:8px;
+}
+
+#tabla{
+    border-collapse: collapse;
+    background-color: gold;
+}
+
+#imagen{
+    max-width: 500px;
+}
